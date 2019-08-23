@@ -1,0 +1,4 @@
+/* :local() 被模块化  :global() 不被模块化*/
+:global(.mydiv) {
+  color: blue;
+}
